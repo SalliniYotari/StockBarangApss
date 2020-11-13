@@ -1,0 +1,29 @@
+{
+	"20200611-G0001" : {
+		"booking_code" : "KFG4",
+		"pessenger" : {
+			"title" : "Mr.",
+			"front_name" : "Anas",
+			"last_name" : "Azhar"
+		},
+		"origin" : {
+			"city" : "Jakarta",
+			"airport" : "CGK"
+		},
+		"destination" : {
+			"city" : "Palembang",
+			"airport" : "PLM"
+		},
+		"time" : {
+			"check_in" : "10.30",
+			"boarding" : "11.35",
+			"arrival" : "12.20"
+		},
+		"terminal" : "3",
+		"gate" : "3G",
+		"airline" : "Garuda Indonesia",
+		"seat" : "12A",
+		"class" : "Economy",
+		"baggage" : 10
+	}
+}
